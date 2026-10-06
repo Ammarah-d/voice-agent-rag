@@ -1,0 +1,12 @@
+Company Name: Apex Cloud Solutions
+
+Refund Policy:
+Customers are eligible for a full 100% refund within 14 days of purchase. After 14 days, a pro-rated credit is applied to the account. No refunds are given after 30 days.
+
+Support Hours:
+Customer support operates from Monday to Friday, 9:00 AM to 6:00 PM Eastern Time. Weekend emergency support is reserved for enterprise tier clients only.
+
+Service Plans:
+1. Starter Plan: $29/month, includes 5 user licenses and 10GB cloud storage.
+2. Pro Plan: $79/month, includes 20 user licenses and 100GB cloud storage.
+3. Enterprise Plan: Custom pricing, includes unlimited licenses and dedicated technical support.
