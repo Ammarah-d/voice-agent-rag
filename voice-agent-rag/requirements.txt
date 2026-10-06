@@ -1,6 +1,0 @@
-livekit-agents>=0.8.0
-livekit-plugins-google
-livekit-plugins-deepgram
-livekit-plugins-silero
-python-dotenv
-chromadb
