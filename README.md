@@ -16,6 +16,7 @@ A production-grade, low-latency voice agent capable of natural bi-directional di
 - **Interruption Handling (Barge-in):** Instantly cancels TTS playback when user speech is detected mid-sentence.
 
 ## Getting Started
+
 1. Clone this repository and configure credentials in `.env`:
    ```env
    LIVEKIT_URL=...
